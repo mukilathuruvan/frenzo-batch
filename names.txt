@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 Arul murugan R
-=======
-Name:"Venish"
->>>>>>> 42059e3bd53feab24730535de68f14be38b2b6eb
+Venish
+Abishek M
+Sathish
+
